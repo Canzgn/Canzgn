@@ -1,62 +1,40 @@
 <div align="center">
+Barışcan Özgen
 
-# Barışcan Özgen
+Computer Engineering Student · Kocaeli University
 
-**Computer Engineering Student · Kocaeli University**
-
-*Focused on Backend Development, AI Automation & Computer Vision.*
+Focused on Backend Development, AI Automation & Computer Vision.
 
 </div>
 
----
-
-## 👤 Profile Overview
+👤 Profile Overview
 
 I am a Computer Engineering student driven by building production-ready systems that solve real problems. My work spans backend API development, AI-powered automation pipelines, and full-stack web applications — with a strong focus on writing maintainable, scalable code from day one.
 
-- **Education:** Kocaeli University, B.Sc. in Computer Engineering (2023 – Expected 2027)
-- **Backend Experience:** Designed and deployed REST APIs using Python (FastAPI, Flask), PostgreSQL, and MongoDB; implemented JWT + Argon2 authentication, connection pooling, rate limiting, and HTTP security hardening (CSP / XSS / IDOR protection) on live, user-facing platforms.
-- **AI & Automation:** Built n8n workflow automation pipelines and Gemini API agent modules; developed an NLP system using Sentence-BERT for semantic duplicate detection (90% threshold accuracy); currently working on YOLO11 object detection and ByteTrack multi-object tracking for an autonomous defense platform at **Teknofest 2026**.
-- **Current Focus:** Full-stack development (Python / FastAPI / Next.js), AI-driven automation (n8n / Gemini API / NLP), computer vision (YOLO11 / ByteTrack), and cross-platform mobile development (Flutter / Dart).
-- **Activity:** Member of [**Kilavuz-ImagiNeer**](https://github.com/Kilavuz-ImagiNeer) · Former IEEE Kocaeli Student Branch member (2024–2025)
 
----
+Education: Kocaeli University, B.Sc. in Computer Engineering (2023 – Expected 2027)
+Backend Experience: Designed and deployed REST APIs using Python (FastAPI, Flask), PostgreSQL, and MongoDB; implemented JWT + Argon2 authentication, connection pooling, rate limiting, and HTTP security hardening (CSP / XSS / IDOR protection) on live, user-facing platforms.
+AI & Automation: Built n8n workflow automation pipelines and Gemini API agent modules; developed an NLP system using Sentence-BERT for semantic duplicate detection (90% threshold accuracy); currently working on YOLO11 object detection and ByteTrack multi-object tracking for an autonomous defense platform at Teknofest 2026.
+Current Focus: Backend development (Python / FastAPI), AI-driven automation (n8n / Gemini API / NLP), computer vision (YOLO11 / ByteTrack), and cross-platform mobile development (Flutter / Dart).
+Currently Learning: Full-stack frontend (Next.js / React / Tailwind CSS), embedded systems (Raspberry Pi / UART / RS485)
+Activity: Member of Kilavuz-ImagiNeer · Former IEEE Kocaeli Student Branch member (2024–2025)
 
-## 🛠️ Technical Skills
 
-| Area | Technologies |
-|------|-------------|
-| **Languages** | Python (Advanced), JavaScript, Dart / Flutter, HTML5 / CSS3 |
-| **Backend & API** | FastAPI, Flask, REST API, JWT, Argon2 |
-| **Database** | PostgreSQL, MongoDB, MSSQL, Supabase |
-| **AI & Automation** | n8n, Gemini API, Sentence-BERT, NLP, Web Scraping, YOLO11, ByteTrack, ONNX, TensorRT |
-| **Mobile** | Flutter (iOS & Android) |
-| **Frontend** | Next.js, React, Tailwind CSS, Vanilla JS / TypeScript |
-| **Embedded** | Raspberry Pi, UART, RS485 |
-| **DevOps & Tools** | Docker, Git, Render.com, Cloudinary, SendGrid |
 
----
+🛠️ Technical Skills
 
-## 🚀 Featured Projects
+AreaTechnologiesLanguagesPython (Advanced), JavaScript, Dart / Flutter, HTML5 / CSS3Backend & APIFastAPI, Flask, REST API, JWT, Argon2DatabasePostgreSQL, MongoDB, MSSQL, SupabaseAI & Automationn8n, Gemini API, Sentence-BERT, NLP, Web Scraping, YOLO11, ByteTrackMobileFlutter (iOS & Android)FrontendVanilla JS / TypeScriptDevOps & ToolsDocker, Git, Render.com, Cloudinary, SendGrid
 
-| Project | Technologies | Description |
-|---------|-------------|-------------|
-| [**Kılavuz ImagiNeer**](https://github.com/Kilavuz-ImagiNeer/kilavuz-imagineer) | Python · Next.js · YOLO11 · Raspberry Pi | Teknofest 2026 — Autonomous dual-axis turret system with YOLO11 object detection, ByteTrack multi-object tracking, friend/foe classification, and a multi-layer safety chain |
-| [**Social Library Platform**](https://github.com/Canzgn/Sosyal_Library) | FastAPI · PostgreSQL · Docker · Cloudinary | Full-stack social platform for tracking films, series, and books — JWT + Argon2 auth, social feed, ratings, notifications, n8n + Gemini AI agent module · [🌐 Live Demo](https://social-library-platform.onrender.com) |
-| [**Kocaeli News Monitoring System**](https://github.com/Canzgn/Kocaeli-Haber-Sistemi) | Python · Flask · MongoDB · Sentence-BERT | Automated scraping pipeline from 5 local news sources; Sentence-BERT semantic similarity for 90%-threshold duplicate detection; interactive map with district/category filters |
-| [**SunumListesi**](https://github.com/Canzgn/SunumListesi) | Python · Flask · PostgreSQL · Docker | Web app that auto-schedules student presentation calendars around exam weeks and holidays; PDF export, Dockerized and deployed on Render.com |
-| [**Car Body Type Classification**](https://github.com/Canzgn/car-body-type-classification) | Python · Deep Learning | Deep learning model classifying vehicle body types (sedan, SUV, hatchback, etc.) |
-| **Word Crush** *(private)* | Flutter · Dart | Cross-platform mobile word puzzle game — animated letter grid, level progression, in-game achievements, and a built-in word database |
 
----
+🚀 Featured Projects
+
+ProjectTechnologiesDescriptionKılavuz ImagiNeer 🚧Python · YOLO11 · ByteTrack · Raspberry PiIn active development for Teknofest 2026 — Autonomous dual-axis turret system with YOLO11 object detection, ByteTrack multi-object tracking, friend/foe classification, and a multi-layer safety chainSocial Library PlatformFastAPI · PostgreSQL · Docker · CloudinaryFull-stack social platform for tracking films, series, and books — JWT + Argon2 auth, social feed, ratings, notifications, n8n + Gemini AI agent module · 🌐 Live DemoKocaeli News Monitoring SystemPython · Flask · MongoDB · Sentence-BERTAutomated scraping pipeline from 5 local news sources; Sentence-BERT semantic similarity for 90%-threshold duplicate detection; interactive map with district/category filtersSunumListesiPython · Flask · PostgreSQL · DockerWeb app that auto-schedules student presentation calendars around exam weeks and holidays; PDF export, Dockerized and deployed on Render.comCar Body Type ClassificationPython · EfficientNet-B0 · Transfer LearningDeep learning model classifying vehicle body types (sedan, SUV, hatchback, etc.) using EfficientNet-B0 transfer learningWord Crush (private)Flutter · DartCross-platform mobile word puzzle game — animated letter grid, level progression, in-game achievements, and a built-in word database
+
 
 <div align="center">
-
-*"Make it work, make it right, make it fast."*
+"Make it work, make it right, make it fast."
 
 </div>
-
----
 
 ## 📬 Contact
 
