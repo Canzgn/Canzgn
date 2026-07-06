@@ -2,9 +2,9 @@
 
 # Barışcan Özgen
 
-**Bilgisayar Mühendisliği Öğrencisi · Kocaeli Üniversitesi**
+**Computer Engineering Student · Kocaeli University**
 
-*Bilgisayar Görüsü, Makine Öğrenmesi ve Full-Stack Geliştirme üzerine odaklı.*
+*Focused on Backend Development, AI Automation & Computer Vision.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bariscanozgen)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canzgn_)
@@ -14,57 +14,48 @@
 
 ---
 
-## 👤 Hakkımda
+## 👤 Profile Overview
 
-Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. İlgi alanlarım; **bilgisayar görüsü**, **derin öğrenme** ve **full-stack web geliştirme** üzerinde yoğunlaşıyor. Akademik çalışmalarımı gerçek dünya projelerine dönüştürmeyi seviyorum.
+I am a Computer Engineering student driven by building production-ready systems that solve real problems. My work spans backend API development, AI-powered automation pipelines, and full-stack web applications — with a strong focus on writing maintainable, scalable code from day one.
 
-- 🔭 Şu an **Teknofest 2026** kapsamında YOLO11 tabanlı otonom hedef tespit sistemi üzerinde çalışıyorum
-- 🌱 Bilgisayar görüsü, embedded sistemler ve mobil geliştirme alanlarında gelişiyorum
-- 🤝 [**Kilavuz-ImagiNeer**](https://github.com/Kilavuz-ImagiNeer) organizasyonunun üyesiyim
-- 💡 Açık kaynak katkısına ve öğrenmeye açığım
+- **Education:** Kocaeli University, B.Sc. in Computer Engineering (2023 – Expected 2027)
+- **Backend Experience:** Designed and deployed REST APIs using Python (FastAPI, Flask), PostgreSQL, and MongoDB; implemented JWT + Argon2 authentication, connection pooling, rate limiting, and HTTP security hardening (CSP / XSS / IDOR protection) on live, user-facing platforms.
+- **AI & Automation:** Built n8n workflow automation pipelines and Gemini API agent modules; developed an NLP system using Sentence-BERT for semantic duplicate detection (90% threshold accuracy); currently working on YOLO11 object detection and ByteTrack multi-object tracking for an autonomous defense platform at **Teknofest 2026**.
+- **Current Focus:** Full-stack development (Python / FastAPI / Next.js), AI-driven automation (n8n / Gemini API / NLP), computer vision (YOLO11 / ByteTrack), and cross-platform mobile development (Flutter / Dart).
+- **Activity:** Member of [**Kilavuz-ImagiNeer**](https://github.com/Kilavuz-ImagiNeer) · Former IEEE Kocaeli Student Branch member (2024–2025)
 
 ---
 
-## 🛠️ Teknik Yetkinlikler
+## 🛠️ Technical Skills
 
-| Alan | Teknolojiler |
+| Area | Technologies |
 |------|-------------|
-| **Diller** | Python, Dart (Flutter), JavaScript, TypeScript, HTML/CSS |
-| **Backend** | FastAPI, REST API, JWT Auth, PostgreSQL, Supabase |
-| **Frontend** | Next.js, React, Tailwind CSS, Vanilla JS |
-| **Mobil** | Flutter |
-| **AI / ML** | YOLO11, ByteTrack, ONNX, TensorRT, OpenCV |
-| **Gömülü** | Raspberry Pi, UART, RS485 |
-| **DevOps** | Git, GitHub Actions, Render.com, Docker |
-| **Araçlar** | Cloudinary, SendGrid, TMDb API, Google Books API |
+| **Languages** | Python (Advanced), JavaScript, Dart / Flutter, HTML5 / CSS3 |
+| **Backend & API** | FastAPI, Flask, REST API, JWT, Argon2 |
+| **Database** | PostgreSQL, MongoDB, MSSQL, Supabase |
+| **AI & Automation** | n8n, Gemini API, Sentence-BERT, NLP, Web Scraping, YOLO11, ByteTrack, ONNX, TensorRT |
+| **Mobile** | Flutter (iOS & Android) |
+| **Frontend** | Next.js, React, Tailwind CSS, Vanilla JS / TypeScript |
+| **Embedded** | Raspberry Pi, UART, RS485 |
+| **DevOps & Tools** | Docker, Git, Render.com, Cloudinary, SendGrid |
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Featured Projects
 
-| Proje | Teknolojiler | Açıklama |
-|-------|-------------|----------|
-| [**Kılavuz ImagiNeer**](https://github.com/Kilavuz-ImagiNeer/kilavuz-imagineer) | Python · Next.js · YOLO11 · Raspberry Pi | Teknofest 2026 — YOLO11 hedef tespit, ByteTrack takip ve çok katmanlı güvenlik zinciriyle donanımlı otonom iki eksenli taret sistemi |
-| [**Sosyal Library**](https://github.com/Canzgn/Sosyal_Library) | FastAPI · PostgreSQL · Cloudinary | Film, dizi ve kitapları takip edip arkadaşlarınla paylaşabileceğin Letterboxd + Goodreads'den ilham alan Türkçe sosyal platform · [🌐 Canlı Demo](https://social-library-platform.onrender.com) |
-| [**Car Body Type Classification**](https://github.com/Canzgn/car-body-type-classification) | Python · Deep Learning | Derin öğrenme ile araç gövde tipi sınıflandırması (sedan, SUV, hatchback vb.) |
-| [**Kocaeli Haber Sistemi**](https://github.com/Canzgn/Kocaeli-Haber-Sistemi) | Python | Kocaeli'ye özel haber toplama ve listeleme sistemi |
-| **Kelime Bulma Oyunu** *(private)* | Flutter · Dart | Komşu harflere dokunarak kelime oluşturulan mobil oyun — özel joker sistemi, çoklu dil desteği ve skor tablosu |
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Canzgn&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Canzgn&layout=compact&theme=dark&hide_border=true)
-
-</div>
+| Project | Technologies | Description |
+|---------|-------------|-------------|
+| [**Kılavuz ImagiNeer**](https://github.com/Kilavuz-ImagiNeer/kilavuz-imagineer) | Python · Next.js · YOLO11 · Raspberry Pi | Teknofest 2026 — Autonomous dual-axis turret system with YOLO11 object detection, ByteTrack multi-object tracking, friend/foe classification, and a multi-layer safety chain |
+| [**Social Library Platform**](https://github.com/Canzgn/Sosyal_Library) | FastAPI · PostgreSQL · Docker · Cloudinary | Full-stack social platform for tracking films, series, and books — JWT + Argon2 auth, social feed, ratings, notifications, n8n + Gemini AI agent module · [🌐 Live Demo](https://social-library-platform.onrender.com) |
+| [**Kocaeli News Monitoring System**](https://github.com/Canzgn/Kocaeli-Haber-Sistemi) | Python · Flask · MongoDB · Sentence-BERT | Automated scraping pipeline from 5 local news sources; Sentence-BERT semantic similarity for 90%-threshold duplicate detection; interactive map with district/category filters |
+| [**SunumListesi**](https://github.com/Canzgn/SunumListesi) | Python · Flask · PostgreSQL · Docker | Web app that auto-schedules student presentation calendars around exam weeks and holidays; PDF export, Dockerized and deployed on Render.com |
+| [**Car Body Type Classification**](https://github.com/Canzgn/car-body-type-classification) | Python · Deep Learning | Deep learning model classifying vehicle body types (sedan, SUV, hatchback, etc.) |
+| **Word Crush** *(private)* | Flutter · Dart | Cross-platform mobile word puzzle game — animated letter grid, level progression, in-game achievements, and a built-in word database |
 
 ---
 
 <div align="center">
 
-*"Önce çalışmasını sağla, sonra güzel yap, sonra hızlı."*
+*"Make it work, make it right, make it fast."*
 
 </div>
