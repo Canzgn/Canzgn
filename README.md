@@ -6,10 +6,6 @@
 
 *Focused on Backend Development, AI Automation & Computer Vision.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bariscanozgen)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canzgn_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barisozgen5101@gmail.com)
-
 </div>
 
 ---
@@ -57,5 +53,17 @@ I am a Computer Engineering student driven by building production-ready systems 
 <div align="center">
 
 *"Make it work, make it right, make it fast."*
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bariscanozgen)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canzgn_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barisozgen5101@gmail.com)
 
 </div>
